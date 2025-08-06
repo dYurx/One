@@ -1,0 +1,34 @@
+[01:19:48] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[01:19:48] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.4
+[01:19:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/One/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[01:19:54] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:19:56] [main/INFO]: Loaded 1370 recipes
+[01:19:56] [main/INFO]: Loaded 1481 advancements
+[01:19:56] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[01:19:56] [Server thread/INFO]: Loading properties
+[01:19:56] [Server thread/INFO]: Default game type: SURVIVAL
+[01:19:56] [Server thread/INFO]: Generating keypair
+[01:19:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:19:56] [Server thread/INFO]: Using epoll channel type
+[01:19:56] [Server thread/INFO]: Preparing level "world"
+[01:19:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:19:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:19:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:19:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:19:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:19:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:19:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:19:59] [Server thread/INFO]: Time elapsed: 2802 ms
+[01:19:59] [Server thread/INFO]: Done (3.188s)! For help, type "help"
+[01:20:14] [User Authenticator #1/INFO]: UUID of player dYurx is 0245f924-b4c8-4680-a114-433a9b2ec4fe
+[01:20:15] [Server thread/INFO]: dYurx[/127.197.53.188:51229] logged in with entity id 57 at (58.5, 70.0, 40.5)
+[01:20:15] [Server thread/INFO]: dYurx joined the game
+[01:20:30] [Server thread/INFO]: Made dYurx a server operator
+[01:20:33] [Server thread/INFO]: [dYurx: Set own game mode to Creative Mode]
+[01:20:49] [Server thread/INFO]: dYurx lost connection: Disconnected
+[01:20:49] [Server thread/INFO]: dYurx left the game
+[01:21:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
